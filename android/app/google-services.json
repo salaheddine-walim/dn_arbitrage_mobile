@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109816241810",
+    "project_id": "dn-arbitrage",
+    "storage_bucket": "dn-arbitrage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109816241810:android:ca72fc68ab115a2ade104b",
+        "android_client_info": {
+          "package_name": "com.example.dn_arbitrage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109816241810-f8h7rl45vmnl3a0t0rr6re4n99pmf9u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTb2SzXJQehmDvnpH1958kVMIFyqLQD0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109816241810-f8h7rl45vmnl3a0t0rr6re4n99pmf9u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
